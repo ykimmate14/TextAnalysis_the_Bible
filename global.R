@@ -1,5 +1,5 @@
 library(igraph); library(stringi); library(XML); library(dplyr); library(rvest)
-library(tm)
+library(tm); library(ggplot2)
 library(wordcloud)
 
 # processing the text data
