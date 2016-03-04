@@ -34,7 +34,7 @@ shinyUI(navbarPage("Text Analysis on the Bible",
              titlePanel("The Bible word cloud"),
              fluidRow(
                  column(3,
-                        helpText("The app prompts a user to select one of the books from the Bible and shows the 50 most frquent string in
+                        helpText("The app prompts a user to select one of the books from the Bible and shows the most frquent string in
                                  a word cloud format for the selected book."),
                         selectInput("select.1", "Select a Book",
                                     c("Old.Testament", "New.Testament")),
