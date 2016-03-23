@@ -1,4 +1,4 @@
-### About the App
+### About the [App](https://ykimmate14.shinyapps.io/bible/)
 
 The interactive web applicaton was created with **Shiny** library in R.
 The app shows breif exploratory analysis on the Bible. The Bible is King James Version and can be downloaded 
